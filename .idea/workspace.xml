@@ -32,11 +32,9 @@
       <file leaf-file-name="MyDroplet.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyDroplet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -181,12 +179,12 @@
       <workItem from="1591055483836" duration="14580000" />
       <workItem from="1591142972943" duration="4465000" />
       <workItem from="1591158412112" duration="156000" />
-      <workItem from="1591169093867" duration="1962000" />
+      <workItem from="1591169093867" duration="2180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42355000" />
+    <option name="totallyTimeSpent" value="42573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="819" y="201" width="900" height="628" extended-state="0" />
@@ -504,11 +502,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyDroplet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
