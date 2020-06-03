@@ -30,6 +30,8 @@
             display: block;
         }
     </style>
+
+
 </head>
 <body>
 
@@ -43,10 +45,23 @@
 
 <!--第二部分-->
 <section class="DSsecond_section">
-    <img src="Resource/banner-1.png" rel="加载失败">
+    <img id="swiper_img" src="Resource/banner-1.png" rel="加载失败">
 </section>
 
+<script>
+    var imgNum=1;
+    var swiper_item=document.getElementById("swiper_img");
 
+    function changeimg() {
+        imgNum++;
+        if(imgNum>3){
+            imgNum=1;
+        }
+        var s="Resource/banner-"+imgNum+".png";
+        swiper_item.src=s;
+    }
+    setInterval(changeimg,2000);
+</script>
 
 <!--第三部分-->
 <!--一个ul可理解为一行，一个li可理解为一列-->
