@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc44490d-eec3-44f8-9b1f-e7e9fc434398" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/DropletService.html" afterPath="$PROJECT_DIR$/DropletService.html" />
+      <change beforePath="$PROJECT_DIR$/MyDroplet.html" afterPath="$PROJECT_DIR$/MyDroplet.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DropletService.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DropletService.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DropletService.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="65">
@@ -24,6 +24,18 @@
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#a#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDroplet.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyDroplet.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -50,13 +62,13 @@
         <option value="$PROJECT_DIR$/BusinessProject.html" />
         <option value="$PROJECT_DIR$/BusinessProjectGold.html" />
         <option value="$PROJECT_DIR$/BusinessProjectSliver.html" />
-        <option value="$PROJECT_DIR$/MyDroplet.html" />
         <option value="$PROJECT_DIR$/ServiceProcess.html" />
         <option value="$PROJECT_DIR$/javascript/jquery-3.5.1.min.js" />
         <option value="$PROJECT_DIR$/PlatformMien.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/javascript/RequestUtils.js" />
         <option value="$PROJECT_DIR$/DropletService.html" />
+        <option value="$PROJECT_DIR$/MyDroplet.html" />
       </list>
     </option>
   </component>
@@ -67,8 +79,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1096" />
-    <option name="y" value="257" />
+    <option name="x" value="819" />
+    <option name="y" value="201" />
     <option name="width" value="900" />
     <option name="height" value="628" />
   </component>
@@ -169,15 +181,15 @@
       <workItem from="1591055483836" duration="14580000" />
       <workItem from="1591142972943" duration="4465000" />
       <workItem from="1591158412112" duration="156000" />
-      <workItem from="1591169093867" duration="1118000" />
+      <workItem from="1591169093867" duration="1962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41511000" />
+    <option name="totallyTimeSpent" value="42355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1096" y="257" width="900" height="628" extended-state="0" />
+    <frame x="819" y="201" width="900" height="628" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15661253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -435,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyDroplet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="100" column="32" lean-forward="false" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ServiceProcess.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -493,6 +498,16 @@
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#a#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyDroplet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="68" column="37" lean-forward="false" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
