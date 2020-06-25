@@ -1,16 +1,16 @@
 {
 	"PlayResourceRule":[
 		{
-			"playSourceGroup": "",
-			"playSourceName": "最大资源网",
-			"playSourceType": 0,
-			"playSourceUrl": "http://www.zuidazy5.com",
+			"playSourceGroup":"",
+			"playSourceName":"最大资源网",
+			"playSourceType":0,
+			"playSourceUrl":"http://www.zuidazy5.com",
 			"searchRequestBody":{
-				"firstkey": "wd",
-				"secondkey": "m"
-				"secondvalue": "vod-search",
-				"thirdkey": "submit",
-				"thirdkey": "search"
+				"firstkey":"wd",
+				"secondkey":"m",
+				"secondvalue":"vod-search",
+				"thirdkey":"submit",
+				"thirdkey":"search"
 			},
 			"ruleSearch": {
 				"videoNameRule": "body > div.xing_vb > ul > li > span.xing_vb4 > a",
