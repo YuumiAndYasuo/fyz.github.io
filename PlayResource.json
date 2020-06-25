@@ -1,10 +1,10 @@
 {
 	"PlayResourceRule":[
 		{
-			"bookSourceGroup": "",
-			"bookSourceName": "最大资源网",
-			"bookSourceType": 0,
-			"bookSourceUrl": "http://www.zuidazy5.com",
+			"playSourceGroup": "",
+			"playSourceName": "最大资源网",
+			"playSourceType": 0,
+			"playSourceUrl": "http://www.zuidazy5.com",
 			"searchRequestBody":{
 				"m": "vod-search",
 				"wd": "",
