@@ -30,8 +30,8 @@
 			"allPlaylinkRule": ".vodplayinfo ul li",
 			"videoPlaylinkM3u8Rule": "",
 			"videoPlaylinkMp4Rule": "",
-			"videoPlaylinkKuyunRule": "",
+			"videoPlaylinkKuyunRule": ""
 		}
     },
-    "searchUrl": "http://www.zuidazy5.com/index.php?m=vod-search",
+    "searchUrl": "http://www.zuidazy5.com/index.php?m=vod-search"
 }
