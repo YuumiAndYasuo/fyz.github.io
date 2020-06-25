@@ -10,7 +10,7 @@
 				"secondkey":"m",
 				"secondvalue":"vod-search",
 				"thirdkey":"submit",
-				"thirdkey":"search"
+				"thirdvalue":"search"
 			},
 			"ruleSearch": {
 				"videoNameRule": "body > div.xing_vb > ul > li > span.xing_vb4 > a",
