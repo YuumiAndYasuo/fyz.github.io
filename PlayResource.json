@@ -6,9 +6,11 @@
 			"playSourceType": 0,
 			"playSourceUrl": "http://www.zuidazy5.com",
 			"searchRequestBody":{
-				"m": "vod-search",
-				"wd": "",
-				"submit": "search"
+				"firstkey": "wd",
+				"secondkey": "m"
+				"secondvalue": "vod-search",
+				"thirdkey": "submit",
+				"thirdkey": "search"
 			},
 			"ruleSearch": {
 				"videoNameRule": "body > div.xing_vb > ul > li > span.xing_vb4 > a",
