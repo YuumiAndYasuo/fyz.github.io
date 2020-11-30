@@ -4,7 +4,7 @@
       "playSourceGroup":"",
       "playSourceName":"最大资源网",
       "playSourceType":0,
-      "playSourceUrl":"http://www.zuidazy5.com",
+      "playSourceUrl":"http://www.zuidazy4.com",
       "searchRequestBody":{
         "firstkey":"wd",
         "secondkey":"m",
@@ -37,7 +37,7 @@
           "videoPlaylinkKuyunRule": ""
         }
       },
-      "searchUrl": "http://www.zuidazy5.com/index.php?m=vod-search"
+      "searchUrl": "http://www.zuidazy4.com/index.php?m=vod-search"
     },
     {
       "playSourceGroup":"",
